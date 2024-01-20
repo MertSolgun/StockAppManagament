@@ -30,6 +30,6 @@ npm install veya yarn
 
 
 <h1>Live
-  <a href="[https://stock-new.netlify.app/](https://stock-app-managament.vercel.app/)https://stock-app-managament.vercel.app/">
+  <a href="https://stock-app-managament.vercel.app/"></a>
 </h1>
 
