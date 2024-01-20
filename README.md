@@ -1,4 +1,6 @@
-<h1>Stock App Managament</h1>
+<h1 align="center">📈Stock App Managament
+    <a href="https://stock-app-managament.vercel.app/">Live</a
+</h1>
 
 
 ## `Kurulum`
@@ -29,7 +31,7 @@ npm install veya yarn
 
 
 
-<h1>Live
-  <a href="https://stock-app-managament.vercel.app/"></a>
-</h1>
-
+<img src="https://github.com/MertSolgun/StockAppManagament/assets/115940928/dc44745a-f38e-4410-b183-9ac86fd56add">
+<img src="https://github.com/MertSolgun/StockAppManagament/assets/115940928/cab62131-e643-4c64-a2a1-68eafc947fc4">
+<img src="https://github.com/MertSolgun/StockAppManagament/assets/115940928/71c08e3f-8978-420a-bf3b-7cab9d2e16a8">
+<img src="https://github.com/MertSolgun/StockAppManagament/assets/115940928/cde8cb57-faea-4f1e-8f58-2065afdbc71e">
